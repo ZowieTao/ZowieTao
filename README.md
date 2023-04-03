@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  💌 Here's a message for contacting you: ⤵️
+  💌 Here's a message for contacting me: ⤵️
 </p>
 
 <p align="left">
