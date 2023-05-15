@@ -54,6 +54,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=redux)
 ![tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![three.js](https://img.shields.io/badge/-Three.js-000?&logo=three.js)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
