@@ -1,9 +1,9 @@
-## Hey 👋, I'm [Zowie Tao](https://www.linkedin.com/in/aakash9868sinha/) !
+## Hey 👋, I'm [Zowie Tao](https://www.react-path.vercel.app/) !
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
+  🌱 I’m a Full stack developer with an undergraduate degree in Computer Application. </br>
 👨‍💻 I am passionate about Web Dev & I enjoy learning new things. </br>
 </p>
 
