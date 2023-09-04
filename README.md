@@ -41,6 +41,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Go](https://img.shields.io/badge/-Golang-000?&logo=Go)
+![Rust](https://img.shields.io/badge/-Rust000?&logo=Rust)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 
